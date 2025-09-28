@@ -2,8 +2,16 @@
   
 // put your custom CSS here!
  
+@font-face {
+  font-family: 'abar_midregular';
+  src: url('abarmid-regular-webfont.woff2') format('woff2'),
+       url('abarmid-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 html {
-  font-family: Vazirmatn, sans-serif !important;
+  font-family: abar_midregular, sans-serif !important;
 }
  
 .breadcrumb-element p {
