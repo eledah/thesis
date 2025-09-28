@@ -9,8 +9,11 @@
   font-style: normal;
 }
 
-html, body {
-  font-family: abar_midregular, sans-serif !important;
+@font-face {
+  font-family: 'abar_midextrabold';
+  src: url('https://raw.githubusercontent.com/eledah/thesis/refs/heads/v4/quartz/static/AbarMid-ExtraBold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
  
 .breadcrumb-element p {
