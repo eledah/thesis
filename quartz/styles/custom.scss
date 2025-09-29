@@ -7,6 +7,8 @@
   src: url('https://raw.githubusercontent.com/eledah/thesis/refs/heads/v4/quartz/static/AbarMid-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+  line-height: 1.8rem;
+  font-display: swap;
 }
 
 @font-face {
@@ -14,6 +16,8 @@
   src: url('https://raw.githubusercontent.com/eledah/thesis/refs/heads/v4/quartz/static/AbarMid-ExtraBold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+  line-height: 2.0rem;
+  font-display: swap;
 }
  
 .breadcrumb-element p {

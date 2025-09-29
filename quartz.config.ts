@@ -67,7 +67,7 @@ const selectedPalette = colorPalettes[currentPaletteName]
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "یک سفر علمی",
+    pageTitle: "سفر علمی",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
