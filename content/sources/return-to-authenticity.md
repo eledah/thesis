@@ -2,9 +2,9 @@
 category: literaturenote
 tags:
 citekey:
-status: unread
+status: read
 dateread:
-date: 2025-11-08
+date: 2025-12-18
 creators:
 title: بازگشت به اصالت
 year:
